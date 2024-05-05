@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>张子昊的作业 </title>
+  <style type="text/css">
+ body{
+ background-color:red;
+   coler:red;
+        font-size: 23px;
+        text-align: center;
+}
+a{
+font-size:30px;
+background-color:biue;
+margin:13px
+text-decoration:none;
+}
+td{
+text-align:center;
+pedding:5px;
+width；100px;
+}
+ </style>
+ </head>
+ <body>
+  <table>
+  <tr>
+	<td><a href="20232362-a.jpg"></a>
+	<img src="20232362-a.jpg"  /></a></td>
+	<td><a href="20232370-a.jpg"></a>
+	<img src="20232370-a.jpg"  /></a></td>
+	<td><a href="20232377-a.jpg"></a>
+	<img src="20232377-a.jpg"  /></a></td>
+	<td><a href="20232382-a.jpg"></a>
+	<img src="20232382-a.jpg"  /></a></td>
+	<td><a href="20232383-a.jpg"></a>
+	<img src="20232383-a.jpg"  /></a></td>
+  </tr>
+  <tr>
+	<td><a href="20232384-a.jpg"></a>
+	<img src="20232384-a.jpg"  /></a></td>
+	<td><a href="20232385-a.jpg"></a>
+	<img src="20232385-a.jpg"  /></a></td>
+	<td><a href="20232386-a.jpg"></a>
+	<img src="20232386-a.jpg"  /></a></td>
+	<td><a href="20232387-a.jpg"></a>
+	<img src="20232387-a.jpg"  /></a></td>
+	<td><a href="20232431-a.jpg"></a>
+	<img src="20232431-a.jpg"  /></a></td>
+  </tr>
+  <tr>
+	<td><a href="20232389-a.jpg"></a>
+	<img src="20232389-a.jpg"  /></a></td>
+	<td><a href="20232390-a.jpg"></a>
+	<img src="20232390-a.jpg"  /></a></td>
+	<td><a href="20232391-a.jpg"></a>
+	<img src="20232391-a.jpg"  /></a></td>
+	<td><a href="20232392-a.jpg"></a>
+	<img src="20232392-a.jpg"  /></a></td>
+	<td><a href="20232393-a.jpg"></a>
+	<img src="20232393-a.jpg"  /></a></td>
+  </tr>
+  <tr>
+	<td><a href="20232432-a.jpg"></a>
+	<img src="20232432-a.jpg"  /></a></td>
+	<td><a href="20232395-a.jpg"></a>
+	<img src="20232395-a.jpg"  /></a></td>
+	<td><a href="20232396-a.jpg"></a>
+	<img src="20232396-a.jpg"  /></a></td>
+	<td><a href="20232397-a.jpg"></a>
+	<img src="20232397-a.jpg"  /></a></td>
+	<td><a href="20232398-a.jpg"></a>
+	<img src="20232398-a.jpg"  /></a></td>
+  </tr>
+  <tr>
+	<td><a href="20232399-a.jpg"></a>
+	<img src="20232399-a.jpg"  /></a></td>
+	<td><a href="20232401-a.jpg"></a>
+	<img src="20232401-a.jpg"  /></a></td>
+	<td><a href="20232402-a.jpg"></a>
+	<img src="20232402-a.jpg"  /></a></td>
+	<td><a href="20232403-a.jpg"></a>
+	<img src="20232403-a.jpg"  /></a></td>
+	<td><a href="20232404-a.jpg"></a>
+	<img src="20232404-a.jpg"  /></a></td>
+  </tr>
+  <tr>
+	<td><a href="20232405-a.jpg"></a>
+	<img src="20232405-a.jpg"  /></a></td>
+	<td><a href="20232406-a.jpg"></a>
+	<img src="20232406-a.jpg"  /></a></td>
+	<td><a href="20232408-a.jpg"></a>
+	<img src="20232408-a.jpg"  /></a></td>
+	<td><a href="20232411-a.jpg"></a>
+	<img src="20232411-a.jpg"  /></a></td>
+	<td><a href="20232412-a.jpg"></a>
+	<img src="20232412-a.jpg"  /></a></td>
+  </tr>
+  <tr>
+	<td><a href="20232413-a.jpg"></a>
+	<img src="20232413-a.jpg"  /></a></td>
+	<td><a href="20232414-a.jpg"></a>
+	<img src="20232414-a.jpg"  /></a></td>
+	<td><a href="20232428-a.jpg"></a>
+	<img src="20232428-a.jpg"  /></a></td>
+	<td><a href="20232429-a.jpg"></a>
+	<img src="20232429-a.jpg"  /></a></td>`
+	<td><a href="20232430-a.jpg"></a>
+	<img src="20232430-a.jpg"  /></a></td>
+  </tr>
+  </table>
+ </body>
+</html>
